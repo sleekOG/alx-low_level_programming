@@ -4,15 +4,13 @@
 
 /**
  *
- * * Main - Prints a random number and checks if positive or -ve or zero
+ *  Main - Prints a random number and checks if positive or -ve or zero
  *
- * * if positive or -ve or zero
- *
- * *
+ *  if positive or -ve or zero
  *
  * *Return: Always 0
  *
- * */
+ */
 
 int main(void)
 {
