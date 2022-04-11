@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- * main -this is the entry of the main function
+ *  main - this is the entry of program
  *
  * Description: to print lowercase alphatet letters exclding e and q
- * Return : 0
+ * Return: 0
  */
 int main(void)
 {
