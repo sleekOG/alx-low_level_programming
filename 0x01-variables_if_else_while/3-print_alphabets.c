@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- * main - entry point
+ * main - entry point to the program
  *
  * Description: Will print lower and upper case alphabets on the same line
- * return : 0
+ * Return: 0
  */
 int main(void)
 {
