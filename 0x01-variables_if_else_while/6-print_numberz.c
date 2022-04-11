@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- * main -  entry point to the function
+ *  main -  entry point to the program
  *
  * Description: will print numbers 0 upto 9 in same line
- * return: 0
+ * Return: 0
  */
 int main(void)
 {
