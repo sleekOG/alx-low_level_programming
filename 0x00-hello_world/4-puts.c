@@ -1,8 +1,9 @@
 #include <stdio.h>
-
 /**
- *main entry point
- *Return :Always 0 (success)
+ * main - entry to program
+ *
+ * Description: print a line
+ *Return: 0
  */
 int main(void)
 {
