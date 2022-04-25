@@ -2,7 +2,8 @@
 
 /**
  * _islower -  program checks if character is lower case
- * Return 1 if characher is lower case and zero if otherwise
+ *
+ * Description - return 1 if characher is lower case and zero if otherwise
  */
 int _islower(int c)
 {
